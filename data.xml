@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+
+<data>
+
+	<id> 1
+			<kode>MP01</kode>
+			<mapel>Ilmu Hukum</mapel>
+			<idGuru>4</idGuru>
+			<guru>Bahtin Ruga Tomayahu</guru>
+			<idKelas>1</idKelas>
+			<kelas>A</kelas>
+			<status>Aktif</status>
+			<hari>Senin</hari>
+			<jam_mulai>10.30</jam_mulai>
+			<jam_selesai>12.30</jam_selesai>
+	</id>
+
+	<id> 2
+			<kode>MP02</kode>
+			<mapel>Ilmu Negara</mapel>
+			<idGuru>4</idGuru>
+			<guru>Bahtin Ruga Tomayahu</guru>
+			<idKelas>1</idKelas>
+			<kelas>A</kelas>
+			<status>Aktif</status>
+			<hari>Selasa</hari>
+			<jam_mulai>09.00</jam_mulai>
+			<jam_selesai>11.30</jam_selesai>
+	</id>
+
+	<id> 3
+			<kode>MP03</kode>
+			<mapel>Hukum Indonesia</mapel>
+			<idGuru>5</idGuru>
+			<guru>Farida Pakaya</guru>
+			<idKelas>2</idKelas>
+			<kelas>B</kelas>
+			<status>Aktif</status>
+			<hari>Rabu</hari>
+			<jam_mulai>07.00</jam_mulai>
+			<jam_selesai>08.30</jam_selesai>
+	</id>
+
+	<id> 4
+			<kode>MP04</kode>
+			<mapel>Hukum Pidana</mapel>
+			<idGuru>5</idGuru>
+			<guru>Farida Pakaya</guru>
+			<idKelas>2</idKelas>
+			<kelas>B</kelas>
+			<status>Aktif</status>
+			<hari>Kamis</hari>
+			<jam_mulai>08.30</jam_mulai>
+			<jam_selesai>10.00</jam_selesai>
+	</id>
+
+</data>
